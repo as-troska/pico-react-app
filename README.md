@@ -19,6 +19,6 @@ npm start
 To build for production:
 
 ```bash
-npm build
+npm run build
 ```
 
